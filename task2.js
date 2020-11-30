@@ -1,0 +1,10 @@
+var x = 1 + 1 * 2;
+console.log("x =", x)
+var y = (1 + 1) * 2;
+console.log("y =", y)
+var z = 1 + (1 * 2);
+console.log("z =", z)
+var a = 1 + 1 * 2 / 2;
+console.log ("a =", a)
+var b = (1 + 1 * 2) / 2;
+console.log("b =", b)
